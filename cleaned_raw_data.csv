@@ -1,4 +1,4 @@
-names,prize_money,best_rank,overall_surface_pct,hard_surface_pct,clay_surface_pct,grass_surface_pct,ranksDiff1,ranksDiff2,ranksDiff3,best_rank_std,age_turned_pro,Age,Plays,Backhand,favorite_surface,hard_titles_std,clay_titles_std,titles_std,prize_money_std
+names,prize_money,best_rank,overall_surface_pct,hard_surface_pct,clay_surface_pct,grass_surface_pct,ranksDiff1,ranksDiff2,ranksDiff3,best_rank_std,age_turned_pro,age,plays,backhand,favorite_surface,hard_titles_std,clay_titles_std,titles_std,prize_money_std
 Feliciano Lopez,777932.27,12,0.52,0.51,0.49,0.65,112.0,97.0,34.0,18.0,15.0,38.0,2,2,9,0.0909090909090909,0.0454545454545455,0.31818181818181795,13.5643947428156
 Nicolas Mahut,513113.95,37,0.44,0.41,0.3,0.62,172.0,53.0,175.0,14.0,18.0,38.0,3,2,9,,,0.2,13.1482532242432
 Tommy Robredo,636963.57,5,0.6,0.56,0.66,0.54,101.0,1.0,9.0,8.0,15.0,37.0,3,2,4,0.0476190476190476,0.523809523809524,0.5714285714285711,13.364467742966001
